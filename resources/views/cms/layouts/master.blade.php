@@ -1,0 +1,5 @@
+@include('cms.includes.header')
+@include('cms.includes.sidebar')
+@include('cms.includes.top_menu')
+@yield('content')
+@include('cms.includes.footer')

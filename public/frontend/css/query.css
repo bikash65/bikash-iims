@@ -1,0 +1,712 @@
+
+
+@media (min-width: 768px) {
+
+.navbar-default
+{
+	background:none;
+}
+
+}
+
+
+
+@media (max-width: 1200px) {
+	
+	.ban_headline h1
+{
+	font-size:40px;
+}	
+
+.ban_headline h3
+{
+	font-size:20px;
+}
+
+.all_prod img
+{
+	width:120%;
+
+}
+.all_prod span
+{
+	font-size: 16px;
+	padding: 8px 25px;
+	margin-left: 22px;
+}
+
+.product
+{
+	margin-right:25px;
+}
+
+/* end of product */
+
+/* start products */
+
+
+}
+
+@media (max-width: 992px) {
+	
+	
+		.ban_headline h1
+{
+	font-size:30px;
+		font-family: 'open_sansregular';
+}	
+
+.ban_headline h3
+{
+	font-size:16px;
+}
+
+.product
+{
+	padding-left: 10px;
+	margin-right: 22px;
+}
+
+.all_prod img
+{
+	width:110%;
+
+}
+.all_prod span
+{
+	font-size: 14px;
+	padding: 8px 25px;
+	margin-left: 12px;
+}
+
+.order_type img
+{
+	width:60%;
+}
+
+.order_type h4
+{
+	font-size:16px;
+}
+
+.order_type p
+{
+	font-size:13px;
+}
+
+/* end of product */
+
+
+
+
+
+
+
+	.contact_btn a
+{
+	padding: 12px 20px;
+	border-radius: 25px;
+	font-size: 16px;
+}
+
+.cont_txt h1, .cont_txt h2
+{
+	font-size:28px;
+}
+
+
+
+/*inner*/
+
+
+.order {
+    padding: 0px 0;
+    margin: 20px 0 !important;
+}
+
+.order h1
+{
+	font-size:26px;
+}
+
+.order h3
+{
+	font-size:18px;
+}
+
+.order h4
+{
+	font-size:16px;
+}
+
+}
+
+
+@media (min-width: 1367px)
+{
+	
+.logo a img
+{
+	width:90%;
+
+}
+	
+	.head_det2
+{
+
+bottom: 70px;
+margin: 0 auto;
+display: table;
+text-align: center;
+margin-top: 22%;
+}
+
+
+.ban_headline h1
+{
+	color:#fff;
+	font-family: 'open_sanslight';
+	font-size:50px;
+}
+
+.ban_headline h3
+{
+	color:#fff;
+	margin:0;
+	padding-bottom:10px;
+
+}
+
+
+.product 
+{
+		margin: 0;
+		padding: 0;
+		margin-right: 31px;
+		padding-left: 30px;
+		margin-top: 12%;
+
+}
+.produt
+{
+	float: left;
+}
+
+.all_prod span 
+{
+	font-family: 'open_sanslight';
+	font-size:20px;
+	padding:10px 30px;
+	margin-left:0px;
+	color:#fff;
+	border-radius:25px;
+
+}
+
+.container {
+		width:1170px;
+	}
+
+.order_type h4
+{
+	font-size:20px;
+}
+
+.order_type p
+{
+	font-size:16px;
+}
+
+.prd_bg
+{
+
+	background-position: 50% 49%;
+	background-size: 74% 26%;
+}
+
+/* end of product */
+
+
+/* start testimonials, contact and footer */	
+.testimonials_bg
+{
+
+	min-height:610px;
+
+}	
+	
+.footer
+{
+
+	min-height:650px;
+
+}	
+	
+}
+
+
+@media (min-width: 992px) and (max-width: 1200px) {
+	
+	
+	
+
+
+
+
+}
+
+
+@media(max-width: 767px)
+{
+	
+	
+.logo a img
+{
+	width:70%;
+
+}	
+
+	
+.nav_main
+{
+	position:fixed;
+	background-color:#FFF;
+	padding-bottom:10px;
+	border-bottom: solid; 
+	border-width: 0px 0px 4px;
+	-moz-border-image: url(../icons/border.jpg) 27 repeat;
+	-webkit-border-image: url(../icons/border.jpg) 27 repeat;
+	-o-border-image: url(../icons/border.jpg) 27 repeat;
+	border-image: url(../icons/border.jpg) 27 fill repeat;
+}
+
+.tog_btn
+{
+	margin:10px 8px;
+}
+
+
+.nav_cos
+{
+	margin:0;
+	padding:0;
+}
+
+.nav_ul 
+{
+	display:block;
+	float:left;
+	width:100%;
+}
+
+.nav_ul li:hover
+{
+	width:100%;
+	background-color:#DADADA;
+}
+
+.nav_ul li a
+{
+	padding:14px 16px;
+}
+
+.btn_hov
+{
+	border-top:1px solid  #DFDFDF;	
+	padding-top:20px;
+	margin-top:10px;
+	
+}
+
+.btn_hov:hover
+{
+	background-color:#fff !important;
+	
+	
+}
+
+.prod_div
+{
+	display:none;
+}
+
+.head_det {
+    bottom: 25%;
+}
+
+.ban_headline
+{
+
+	border-radius:65px;
+
+
+}
+
+.ban_headline h1
+{
+	font-family: 'open_sansregular';
+	font-size:24px;
+}
+
+.ban_headline h3
+{
+	font-size:13px;
+
+}
+
+.prd_bg
+{
+
+	background:none;
+}
+
+.intro
+{
+	padding-bottom:35px;
+	padding-left:30px;
+	padding-right:30px;
+	
+}
+.intro h1
+{
+	font-size:30px;
+}
+
+.intro h3
+{
+	font-size:20px;
+}
+
+.order_type 
+{
+	padding:10px 80px;
+
+}
+
+
+.order_type img
+{
+	width:140px;
+}
+
+.order_type h4
+{
+	font-size:20px;
+}
+
+.order_type p
+{
+	font-size:16px;
+}
+
+.order_bg
+{
+	background:none;
+}
+
+/* end of order */
+
+/* start products */
+
+
+.product_type 
+{
+	padding:10px 50px;
+
+}
+
+.product_type img
+{
+	width:100%;
+
+}
+
+.gb_img 
+{
+	padding:10px 0 40px 0;
+}
+
+.product_det h1
+{
+	font-size: 30px;
+}
+.product_det h3
+{
+	font-size: 20px;
+	margin-top: 5px;
+	margin-bottom: 30px;
+}
+
+.product_type {
+    padding: 20px 50px;
+}
+
+
+/* end of products */
+
+/* testimonials, contact and footer */
+.testimonials_bg
+{
+	display:none;
+}
+
+.contact
+{
+	display:none;
+}
+
+.footer
+{
+	min-height: 470px;
+}
+
+
+
+/* end of testimonials, contact and footer */
+
+
+.nav_ul li .carts a
+{
+	margin-left: -2px;
+}
+
+.checkout_det
+{
+	display:block;
+}
+.cheout_qty
+{
+	float:left;
+	border-top:1px solid #CCC;
+
+
+}
+
+.checkout_itm
+{
+	min-height:200px;
+}
+
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 992px) {
+	
+
+
+.nav_ul li a
+{
+	font-size:12px;
+	padding:8px 5px;
+}
+
+
+.Login, .sign_up
+{
+	font-size:12px;
+
+}
+
+/* end of product */
+
+/* start products */
+
+/* inner*/
+
+
+
+}
+
+
+
+
+
+@media (max-width: 540px) {
+	
+	
+.ban_headline
+{
+	border: 6px solid #D94B48;
+	padding: 10px 30px 20px 30px;
+	border-radius: 18%/50%;
+
+
+}
+
+	
+
+	.intro h1
+{
+	font-size:28px;
+}
+
+.intro h3
+{
+	font-size:18px;
+}
+
+.product_det h1
+{
+	font-size:24px;
+}
+
+.product_det h3
+{
+	font-size:18px;
+}
+
+
+.order_type 
+{
+	padding:10px 50px;
+
+}
+
+
+.order_type h4
+{
+	font-size:18px;
+}
+
+.order_type p
+{
+	font-size:14px;
+}
+
+/* end of order */
+
+/* start products */
+	
+	
+.product_type 
+{
+	width:100%;
+
+}
+
+.product_type img
+{
+	width:85%;
+
+}
+
+
+
+/* end of products */
+
+
+.ord_btn
+{
+	padding:8px 18px;
+	margin-right:10px;
+	
+}
+
+.cart_btn
+{
+	font-size:16px;
+	padding:12px 25px;
+}
+
+.order_qty2 span
+{
+	font-size:14px;
+}
+
+.cheout_qty
+{
+	width:100%;
+	padding:10px 30px;
+
+}
+
+.checkout_itm
+{
+	height:230px;
+}
+.cancel_btn, .checkout_btn
+{
+	font-size:14px;
+	padding: 10px 25px;
+}
+
+
+
+}
+
+
+
+@media (max-width: 397px) {
+	
+		
+	.intro h1
+{
+	font-size:24px;
+}
+
+.intro h3
+{
+	font-size:16px;
+}
+
+
+.order_type 
+{
+	padding:10px 20px;
+
+}
+
+
+
+.order_type h4
+{
+	font-size:16px;
+}
+
+.order_type p
+{
+	font-size:13px;
+}
+
+.logo
+{
+	width: 200px;
+}
+
+/* end of product */
+
+/* start products */
+
+.checkout_det h3
+{
+	margin:0;
+}
+.cheout_qty h2 {
+    font-size: 25px;
+    margin: 4px 0;
+    margin-right: 15px;
+}
+
+.cheout_qty 
+{
+	padding:10px 0;
+}
+
+.edit2 a img, .remove img {
+    width: 40px;
+}
+
+.checkout_itm {
+    min-height: 260px;
+	padding:0 20px;
+}
+
+
+
+}
+
+
+
+
